@@ -46,19 +46,19 @@ description:
  I am a Frontend Developer and enthusiastic about Responsive Web Design.
 baseurl: ""
 url: "https://sena-sezer.github.io"
-favicon: ""
+#favicon: ""
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-yat:
-  date_format: "%b %d, %Y"
+#yat:
+ # date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
 # debug: false
 
- header_transparent: true
+ #header_transparent: true
 
- content_width: "920px"
+ #content_width: "920px"
 
 # Google analytics
 # google_analytics: [Tracking ID]
@@ -100,9 +100,9 @@ yat:
 # Default theme colors as below:
 # coolblack: #090a0b
 # spacegrey: #353535
- snowwhite: #ffffff
+ #snowwhite: #ffffff
 #
- theme_color: snowwhite
+ #theme_color: snowwhite
 #
 # Custom color as below:
 # theme_color: "#882250"
