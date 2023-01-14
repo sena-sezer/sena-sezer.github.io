@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Education
-subtitle: Resources to work with Markdown
+subtitle: Education and Certification
 categories: education
 tags: [school, education]
 ---
 
-## Resources
+## Education
 
 I am graduated from Bogazici University.(2022)
 I will be graduated from Recoded- Frontend Development Bootcamp in February,2023.
