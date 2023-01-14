@@ -43,10 +43,7 @@ author: sena-sezer
 copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ I am a Frontend Developer and enthusiastic about Responsive Web Design. My passion is based on creating and executing innovative web apps. Skilled at working with international teams in a fast-paced, deadline-driven environment to aim for timely project completion. Discovering new possibilities and life-long learning are the fundamentals of my life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sena-sezer.github.io"
 favicon: "" # the favicon for your site
