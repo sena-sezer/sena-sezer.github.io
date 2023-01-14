@@ -1,14 +1,18 @@
 ---
- layout: post
- title: Introduction to Python
- subtitle: Each post also has a subtitle
- categories: Python
- tags: [Python, intro, certificate]
- ---
+layout: post
+title: Contact
+categories: contact
+tags: [contact, linkedin, github]
+---
 
- ## Introduction to Python
+## Contact
 
- This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+ ![datacamp certification](/assets/images/banners/5734E266-4E76-4E6B-A3BD-50AF9EB8622F.jpg)
 
+* Email: sezers12@gmail.com
+* Linkedin:
+url: "https://sena-sezer.github.io"
+* Github: 
+* [link](https://www.linkedin.com/in/sena-sezer-90a099168)
 
- ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+<a href="https://www.linkedin.com/in/sena-sezer-90a099168/>Linkedin</a>
