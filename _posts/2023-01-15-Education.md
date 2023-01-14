@@ -15,12 +15,3 @@ Re:Coded prepares youth for the future of work, by equipping them with the techn
 * Completing a five-month immersive coding bootcamp, with 400+ hours of curricula and project-based learning 
 * Technologies: HTML, CSS, JavaScript, React
 * Co-creating various responsive web applications from scratch.
- ![datacamp certification](/assets/images/banners/5734E266-4E76-4E6B-A3BD-50AF9EB8622F.jpg)
-
-* Email: sezers12@gmail.com
-* Linkedin:
-url: "https://sena-sezer.github.io"
-* Github: 
-* [link](https://www.linkedin.com/in/sena-sezer-90a099168)
-
-<a href="https://www.linkedin.com/in/sena-sezer-90a099168/>Linkedin</a>
